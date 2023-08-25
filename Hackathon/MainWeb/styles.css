@@ -1,0 +1,148 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #607584;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+.Doctors{
+    margin: 0px 0px 0px 2px;padding: 3px 4px;color: beige;position:absolute;left: 20px;top: 90px;
+}
+
+.therapy{
+    margin: 0px 0px 0px 2px;padding: 3px 4px5px 3px;color: beige;position:absolute; left: 1350px; top: 91px;
+    
+}
+
+.refresher{margin: 0px 0px 0px 2px;padding: 3px 4px;color: rgb(245, 245, 220); position:absolute; left:450px;top: 90px;}
+.tracker{margin: 0px 0px 0px 2px;padding: 3px 4px;color: rgb(245, 245, 220);position:absolute; left: 1200px; top: 90px;}
+.progress{margin: 0px 0px 0px 2px;padding: 3px 4px;color: rgb(245, 245, 220);position:absolute; left: 900px; top: 90px;}
+
+
+#BOX-1 {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.chatbot{
+    background-color: aquamarine;
+    text-align: center;
+}
+.img{
+    border: 1px solid #ddd;
+    margin-left: 200px;
+  border-radius: 0px;
+  padding: 0px;
+  width: 40px;
+}
+
+#BOX-11{
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    padding: 10px;
+    overflow-y: scroll;
+    max-height: 300px;
+}
+
+.message {
+    margin: 50px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.received {
+    background-color: #e1e1e1;
+    text-align: left;
+}
+.more-help{
+    background-color: #4c5b66;
+    border: 1px solid #ddd;
+    margin-left: 200px;
+  border-radius: 0px;
+  padding: 0rex;
+  width: 500px;
+  margin-left: 10px;
+  
+}
+
+.sent {
+    background-color: #3498db;
+    color: white;
+    text-align: right;
+}
+#link{
+    margin-left: 5px;
+}
+
+.user-input {
+    margin-top: 20px;
+    display: flex;
+}
+
+#userMessage {
+    flex-grow: 1;
+    padding: 5px;
+}
+
+#sendMessage {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#sendMessage:hover {
+    background-color: #2980b9;
+}
+#inline{
+    width:100%;
+    height:auto;
+    background-color:black;
+    display:flex;
+    position: absolute;top: 600px;
+   
+} 
+.one,.two{
+    width:50%;
+    height:100px;
+    background-color:rgb(130, 160, 130);
+    margin:10px;
+    text-align: center;
+}
+.textArea{
+    width:1450px;
+    height:auto;
+    text-align: center;
+    background-color:rgb(130, 160, 130);
+    display:flex;
+    position: absolute;top: 750px;
+}
+.three,.four,.five{
+    width:50%;
+    height:120px;
+    background-color:rgb(130, 160, 130);
+    margin:10px;
+    text-align: center;
+}
+/* /* .foux{
+    width:50%;
+    height:100px;
+    background-color:rgb(130, 160, 130);
+    margin:10px;
+    text-align: center; position:absolute; left: 900px;
+} */
+
+/* .five{
+  position:absolute; left: 800px;
+}  */
+p{
+    margin: 0%;
+}
