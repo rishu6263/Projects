@@ -1,0 +1,16 @@
+h1{
+    background-color: aqua;
+    
+}
+.div1{
+    display: flex;
+}
+.link1{
+position: absolute; left: 50 px;
+}
+.link2{
+position: absolute; left: 250px;
+}
+.link3{
+position: absolute;left: 100px;
+}
